@@ -3,7 +3,7 @@ Games implemented as a bootloader. Written in x86 assembly language, this projec
   
 Assembling the Code:  
 ```
--> nasm -f bin pong.asm -o pong.bin  
+nasm -f bin pong.asm -o pong.bin  
 ```  
   
 Creating a Bootable Image  
